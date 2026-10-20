@@ -27,7 +27,7 @@ Analyzed Adidas US sales data to explore sales performance across products, regi
 
 **Tools:** Microsoft Excel
 
-[View Excel Project](./01-excel-sales-dashboard/)
+[View Excel Project](./01-excel-adidas-sales-analysis/)
 
 ### 2. Superstore Sales & Profit Analysis — Power BI
 
