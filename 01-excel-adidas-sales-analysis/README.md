@@ -22,7 +22,7 @@ This project analyses US retail sales data using Microsoft Excel. I developed a 
 - PivotTables and PivotCharts
 - Excel formulas and data validation
 - KPI cards and dashboard design
-- Data visualisation and business insights
+- Data visualisation and business insights.
 
 ## Key Analysis Areas
 
