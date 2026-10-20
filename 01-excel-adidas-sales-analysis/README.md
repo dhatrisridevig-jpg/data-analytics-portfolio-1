@@ -6,7 +6,7 @@ This project analyses US retail sales data using Microsoft Excel. I developed a 
 
 ## Dashboard Preview
 
-![Adidas US Sales Dashboard](ADIDAS%20dashboard1.png)
+ADIDAS dashboard1.png
 
 ## Objectives
 
