@@ -34,8 +34,8 @@ Sample Superstore dataset sourced from Kaggle:
 https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
 
 ## Files
-- ./super%20store%20power%20bi%20dashboard.pbix — Interactive Power BI report.
-- ./Superstore%20sales%20powerbi%20dashboard1.png -Dashboard screenshot.
+- [./super%20store%20power%20bi%20dashboard.pbix](https://github.com/dhatrisridevig-jpg/data-analytics-portfolio-1/raw/refs/heads/main/02-powerbi-business-dashboard/super%20store%20power%20bi%20dashboard.pbix) — Interactive Power BI report.
+- [./Superstore%20sales%20powerbi%20dashboard1.png](https://github.com/dhatrisridevig-jpg/data-analytics-portfolio-1/blob/main/02-powerbi-business-dashboard/Superstore%20sales%20powerbi%20dashboard1.png) -Dashboard screenshot.
 
 ## Note
 The $2.5 million sales target is an illustrative assumption for portfolio demonstration, not an official company target. Findings are based on the dataset and may change with report filters.
