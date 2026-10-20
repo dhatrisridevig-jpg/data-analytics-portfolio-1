@@ -34,7 +34,7 @@ Sample Superstore dataset sourced from Kaggle:
 https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
 
 ## Files
-- `Superstore_Sales_Profit_Analysis.pbix` — Interactive Power BI report.
+- !02-powerbi-business-dashboard/super store power bi dashboard.pbix — Interactive Power BI report.
 - `dashboard-preview.png` — Dashboard screenshot.
 
 ## Note
