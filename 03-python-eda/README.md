@@ -69,8 +69,8 @@ Comparing sales with profit is particularly important because higher revenue doe
 
 ## 📁Project Files
 
-- **Python source file** — Contains the data loading, aggregation, and visualization code.
-- **Sample Superstore dataset** — The Excel data used for analysis, if included in the repository.
+- **Python source file** — Contains the data loading, aggregation, and visualization code. - https://github.com/dhatrisridevig-jpg/data-analytics-portfolio-1/blob/main/03-python-eda/Superstore_Sales_EDA%20%281%29.ipynb
+- **Sample Superstore dataset** — The Excel data used for analysis, if included in the repository.- https://github.com/dhatrisridevig-jpg/data-analytics-portfolio-1/blob/main/03-python-eda/Sample%20-%20Superstore.xlsx
 
 ##  Conclusion
 
