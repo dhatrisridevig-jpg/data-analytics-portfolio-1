@@ -44,8 +44,8 @@ This pattern requires further investigation. The recorded values have not been a
 
 ## Project Files
 
-- [Open Excel Workbook](./01-excel-adidas-sales-analysis/Adidas_US_Sales_Analysis.xlsx.xlsx) — Excel workbook containing the dashboard, PivotTables, and analysis.
-- [View Adidas Dashboard](./01-excel-adidas-sales-analysis/ADIDAS%20dashboard1.png) — dashboard screenshot.
+- https://github.com/dhatrisridevig-jpg/data-analytics-portfolio-1/blob/main/01-excel-adidas-sales-analysis/Adidas_US_Sales_Analysis.xlsx.xlsx  — Excel workbook containing the dashboard, PivotTables, and analysis.
+-https://github.com/dhatrisridevig-jpg/data-analytics-portfolio-1/blob/main/01-excel-adidas-sales-analysis/ADIDAS%20dashboard1.png — dashboard screenshot.
 
 ## Data Source
 
